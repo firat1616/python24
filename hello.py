@@ -1,2 +1,2 @@
 #ekrana hello yazacak
-print("Hello")
+print("Hello, bursa")
