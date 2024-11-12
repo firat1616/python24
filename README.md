@@ -1,2 +1,2 @@
 # python24
-2024 python kursu dosyaları
+2024 **python** kursu dosyaları
